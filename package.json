@@ -1,0 +1,15 @@
+{
+  "name": "DashPhoneTracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nexmo": "^1.1.0",
+    "node-dash-button": "^0.6.1"
+  }
+}
